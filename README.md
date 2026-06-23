@@ -87,4 +87,4 @@ Bu gizlilik politikası gerektiğinde güncellenebilir. Önemli değişikliklerd
 
 Gizlilik politikasıyla ilgili sorular için:
 
-E-posta: DESTEK_EMAIL_ADRESINIZ
+E-posta: matteknolojiltd@gmail.com
